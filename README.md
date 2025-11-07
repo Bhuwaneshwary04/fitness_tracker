@@ -1,25 +1,45 @@
-# FITNESS TRACKER (Console Version)
+# 🏋️‍♀️ FITNESS TRACKER — Console Application
 
-It's a simple Python console program to log workouts, calculate BMI, track water intake and also sleep hours.
+A simple Python console-based Fitness Tracker that helps users log workouts, check BMI, track daily water intake, and record sleep hours.
 
-## FEATURES
+## ✅ Features
 
-- Logs workouts (name + duration)
-- Calculates BMI (height in meters and weight)
-- Tracks water intake (liters)
-- Tracks sleep hours
-- Views daily summary
+✔ Log workouts (name + duration)  
+✔ Calculate BMI (with weight status)  
+✔ Track daily water intake (liters)  
+✔ Track sleep hours  
+✔ View full daily summary in one place
 
-## FILES
+## ✅ How to Run
 
-- `fitness_tracker.py` — main program
-- `.gitignore` — files to ignore
-- `README.md` — this file
+1. Install Python
+2. Open terminal in the project folder
+3. Run the file:
 
-## AUTHOR
+📌 Example Menu
+================ FITNESS TRACKER ================
 
+1. Log Workout
+2. Calculate BMI
+3. Add Water Intake
+4. Add Sleep Hours
+5. View Daily Summary
+6. # Exit
+
+✅ Sample Output
+
+-- Log Workout --
+Enter workout name: Running
+Enter duration in minutes: 30
+Workout added successfully!
+
+📁 Project Structure
+fitness_tracker/
+│── fitness_tracker.py
+│── README.md
+│── .gitignore
+
+👤 Author
 Bhuwaneshwary Wagh
-
-
-
-
+Computer Science Student
+Passionate about Python & Development
