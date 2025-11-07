@@ -24,7 +24,7 @@ A simple Python console-based Fitness Tracker that helps users log workouts, che
 3. Add Water Intake
 4. Add Sleep Hours
 5. View Daily Summary
-6. # Exit
+6. Exit
 
 ✅ Sample Output
 
@@ -32,6 +32,7 @@ A simple Python console-based Fitness Tracker that helps users log workouts, che
 Enter workout name: Running
 Enter duration in minutes: 30
 Workout added successfully!
+
 
 📁 Project Structure
 fitness_tracker/
